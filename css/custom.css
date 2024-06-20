@@ -1,0 +1,75 @@
+body{color: rgb(136, 98, 0);text-align: center;font-family: Verdana, Geneva, Tahoma, sans-serif;font-weight: bolder;background-color: rgb(60, 121, 174);}
+
+#mainNav .navbar-brand{color: aqua;}
+#mainNav {position: fixed;}
+
+body {
+    background-image: url('assets/img/20230726_190243.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+  }
+
+h1,h2,h3,h4{font-family: Arial, Helvetica, sans-serif;font-size: large;
+
+}
+
+.tab{
+    width: 50%;
+    margin-left: 15%;
+}
+
+
+.areas{
+    width: auto;
+    float: left;
+    font-size: large;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+  .masthead{
+    background-position: center;
+    float: right;
+  }
+
+.container{
+    position: relative;
+    padding: 60px;
+    
+    border-style: solid;
+
+}
+.header{
+    position: relative;
+    font-size: large;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.leftmenu{
+    
+    
+    float: left;
+    width: 20%;
+
+}
+.mainmenu{
+    position: relative;
+    float: left;
+    
+    width: 50%;
+
+}
+.rightmenu{
+    
+    
+    float: right;
+    width: 20%;
+
+}
+.footer{
+    color: goldenrod;
+    border: 2px solid black;
+    width: auto;
+    margin-top: 40%;
+    margin-bottom: 0px;}
